@@ -1,0 +1,9 @@
+h2 {
+  font-family: Lobster, Monospace;
+  color: #0066ff;
+}
+
+#messageDiv {
+  font-size: 3 em;
+  padding: 40px;
+}
